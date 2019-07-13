@@ -3,7 +3,7 @@
     "urls": [
         {
             "name": "liveReport",
-            "url": "weight/webapi/resource/live"
+            "url": "weight1/webapi/resource/live"
         },
         {
             "name": "liveReportLast10Data",
