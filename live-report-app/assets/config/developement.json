@@ -1,0 +1,9 @@
+{
+    "apiUrl": "http://103.207.4.72:8080/",
+    "urls": [
+        {
+            "name": "liveReport",
+            "url": "weight/webapi/resource/live"
+        }
+    ]
+}
