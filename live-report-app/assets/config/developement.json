@@ -8,6 +8,10 @@
         {
             "name": "liveReportLast10Data",
             "url": "weight1/webapi/resource/live1"
+        },
+        {
+            "name": "logData",
+            "url": "weight1/webapi/resource/live2"
         }
     ],
     "apiCallFrequency" : "3000"
